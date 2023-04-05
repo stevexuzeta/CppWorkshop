@@ -1,2 +1,2 @@
 # CppWorkshop
-This is cpp workshop.
+This is a test.
